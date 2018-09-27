@@ -629,11 +629,11 @@ h1 {
     .templatemo_headertitle {
         float: right;
         text-align: right;
-        font-size: 30px;
+        font-size: 20px;
         margin-top: 10%;
         color: #ffffff;
         font-weight: 600;
-        line-height: 80px;
+        line-height: 25px;
     }
 
     .templatemmo_subheader {
@@ -723,11 +723,11 @@ h1 {
     .templatemo_headertitle {
         float: right;
         text-align: right;
-        font-size: 30px;
+        font-size: 20px;
         margin-top: 10%;
         color: #ffffff;
         font-weight: 600;
-        line-height: 80px;
+        line-height: 25px;
     }
 
     .templatemmo_subheader {
@@ -818,7 +818,7 @@ h1 {
     .templatemo_headertitle {
         float: right;
         text-align: right;
-        font-size: 30px;
+        font-size: 55px;
         margin-top: 10%;
         color: #ffffff;
         font-weight: 600;
